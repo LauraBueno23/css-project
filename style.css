@@ -1,0 +1,39 @@
+.calibri {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.center {
+  text-align: center;
+  color: #1A5D1A;
+}
+
+body {
+  padding: 5%;
+  background-color: #F8F0E5;
+}
+
+h2 {
+  text-align: center;
+  color: #9E6F21;
+}
+
+p {
+  text align: left;
+  color: #102C57;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  }
+
+div {
+  text-align: center;
+  color:#9E6F21;
+}
+
+h5 {
+  padding: 2%;
+  border-style: dotted;
+}
